@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: An Outline of the Phonology and Morphology of Old Provençal
 url: http://www.gutenberg.org/ebooks/49692
